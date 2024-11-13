@@ -1,3 +1,4 @@
+/*Mariana Marques Matos 3ºD 13/11/2024*/
 function criaCartao(categoria, pergunta, resposta) {
     let container = document.getElementById('container')
     let cartao = document.createElement('article')
