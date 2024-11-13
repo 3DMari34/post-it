@@ -1,23 +1,24 @@
+/*Mariana Marques Matos 3ºD 13/11/2024*/
 criaCartao(
-    'Esporte',
-    'Qantas Champions tem o Real Madrid?',
-    'O Real Madrid possui 15 champions'
+    'Humor',
+    'Quem é o rei da horta?',
+    'O Rei-Polho'
 )
 
 criaCartao(
-    'Filmes',
-    'Quem foi o vilão de Vingadores Ultimato?',
-    'Thanos'
+    'Séries',
+    'Qual o nome do carro de Den Winchester?',
+    'Impala 67'
 )
 
 criaCartao(
     'Musica',
-    'Quais os nomes em ordem de cada corda do violão?',
-    '1°Mi, 2°Si, 3°Sol, 4°Ré, 5°Lá, 6°Mi'
+    'Qual foi a ultima música lançada pelo Michael Jackson?',
+    'Best Of Joy'
 )
 
 criaCartao(
-    'Eletronicos',
-    'Qual foi o ultimo processador lançado pela intel?',
-    'Intel Core I9'
+    'Comida',
+    'Qual é o doce mais famoso do Brasil?',
+    'Brigadeiro'
 )
